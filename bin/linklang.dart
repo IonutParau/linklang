@@ -1,5 +1,5 @@
-import 'package:linklang/linklang.dart' as linklang;
+import 'package:linklang/linklang.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${linklang.calculate()}!');
+  // TODO: Write compiler
 }
